@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AmMiRo/AmMiRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Banner](./images/logo_banner_dark_teal.png)
+
+# Hi, I'm Amos 👋👨‍💻
+
+I am a full-stack developer with 10+ years of experience as a healthcare professional.
