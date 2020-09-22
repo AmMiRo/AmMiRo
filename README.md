@@ -6,7 +6,7 @@
 
 # Hi, I'm Amos
 
-I am a full-stack developer with 10+ years of experience as a healthcare professional
+I am a full-stack developer with 10+ years of experience as a healthcare professional.
 
 ## Here is where you can find me
 
