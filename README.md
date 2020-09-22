@@ -21,8 +21,8 @@ I am a full-stack developer with 10+ years of experience as a healthcare profess
 
 ## Here is where you can find me
 
-🌐 amosrose.co
-💼 linkedin.com/in/amos-rose
+*🌐 [My Portfolio] (amosrose.co)
+*💼 [My LinkedIn Profile] (linkedin.com/in/amos-rose)
 
 ## Here is a little about me
 
