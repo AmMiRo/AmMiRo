@@ -16,9 +16,7 @@ I am a full-stack developer with 10+ years of experience as a healthcare profess
 
 ## Here is a little about me
 
-I'm a full-stack developer with 10+ years of experience as a healthcare professional.
-
-Since 2009 I've worked as a technologist in Radiology departments for health systems all across the Front Range in Colorado. Starting as a Staff Radiographer and moved into positions as a Clinical Instructor, Surgical Radiographer, and Interventional Radiographer. I loved working on cross-functional teams in high-demand environments to deliver time sensitive services. I was finding success, but unsure of what my future in healthcare would look like. I wanted to work in an environment where my creativity and drive to learn new technologies and systems would be greater assets to my professional development. That is when I found Lambda School.
+From 2009 to recently, I worked as a Radiologic Technologist for health systems across Colorado. I started as a Staff Radiographer and moved into positions as a Clinical Instructor, Surgical Radiographer, and Interventional Radiographer. I loved working on cross-functional teams in high-demand environments to deliver time sensitive services and while I was finding success, I was unsure of what my future in healthcare would look like. I wanted to work in an environment where my creativity and drive to learn new technologies and systems would be greater assets to my professional development. That is when I found Lambda School.
 
 In late 2019 I enrolled as a full-time student in Lambda School's Full-Stack Web Development course. On top of teaching me about technologies like JavaScript, Python, React, Node.js, HTML, and CSS, Lambda showed me the value that my creativity and lifestyle of learning could bring.
 
