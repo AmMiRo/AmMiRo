@@ -2,22 +2,19 @@
 **AmMiRo/AmMiRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Banner](./images/logo_banner_dark_teal.png)
+# Hi, I'm [Amos](https://www.linkedin.com/in/amos-rose/)!
 
-# Hi, I'm Amos
-
-I am a full-stack developer with 10+ years of experience as a healthcare professional.
-
-## Here is where you can find me
-
-🌐 [My Portfolio](https://amosrose.co)
-
-💼 [My LinkedIn Profile](https://www.linkedin.com/in/amos-rose/)
+I am a former healthcare professional turned software engineer.
 
 ## Here is a little about me
 
-From 2009 until recently, I worked as a Radiologic Technologist for health systems across Colorado. I started as a Staff Radiographer and moved into positions as a Clinical Instructor, Surgical Radiographer, and Interventional Radiographer. I loved working on cross-functional teams in high-demand environments to deliver time sensitive services and while I was finding success, I was unsure of what my future in healthcare would look like. I wanted to work in an environment where my creativity and drive to learn new technologies and systems would be greater assets to my professional development. That is when I found Lambda School.
+I worked in healthcare as a radiographer for over 10 years. Whether it was working on a trauma team in the emergency room, teaching and training clinical students, or collaborating on cross-functional teams in interventional procedures, I loved performing outstanding services and exams for my patients and care teams. While I was finding success in my field, I wanted to work in an environment where my creativity and drive to learn new technologies and systems would be a greater asset to my professional development.
+ 
+In late 2019 I decided to make a change and enrolled in BloomTech (at the time known as Lambda School) to learn full-stack web development. On top of software engineering, that experience showed me the value that my creativity and lifestyle of learning could bring.
+ 
+I've been working as a software engineer ever since and have loved every opportunity to learn a new technology, collaborate to find a solution to a tricky problem, and deliver a feature that makes a real impact on the platform or application I'm working on.
 
-In late 2019 I enrolled as a full-time student in Lambda School's Full-Stack Web Development course. On top of teaching me about technologies like JavaScript, Python, React, Node.js, HTML, and CSS, Lambda showed me the value that my creativity and lifestyle of learning could bring.
 
-As I am stepping out into the world with these new skills, I am excited as to what my future as a developer will bring.
+## Here is where you can find me
+
+💼 [My LinkedIn Profile](https://www.linkedin.com/in/amos-rose/)
